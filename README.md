@@ -1,7 +1,7 @@
 # Lime Scooter Gen 3 Battery Info
 Tell the difference between a Gen 3 scooter and a Gen 2.5 scooter.
 
-Gen 2.5 scooters have a max meter range of 24140, whereas Gen 3.0 Limes and a range of 32km+.
+Gen 2.5 scooters have a max meter range of 24140, whereas Gen 3.0 Limes have a range of 32km+.
 
 Gen 3.0 scooters become half charged when they reach 11km whereas a Gen 2.5 scooter becomes half charged at 6km.
 
